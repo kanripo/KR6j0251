@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:49.225285
+#+DATE: 2015-08-30 20:28:49.817376
 #+TITLE: 讚觀世音菩薩頌
 #+PROPERTY: CBETA_ID T20n1052
 #+PROPERTY: ID KR6j0251
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1052
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6j0251_T_000-0067a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0251_T_001-0067a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1052¶
-
- 讚觀世音菩薩頌¶
+No. 1052¶
+讚觀世音菩薩頌¶
 ¶
-唐天后代佛授記寺翻經沙門¶
+天后代佛授記寺翻經沙門¶
 慧智奉　制譯¶
 
 #+BEGIN_VERSE
@@ -119,13 +118,13 @@ No.1052¶
 　深山大澤險難處
 　劫賊伺人將抄奪¶
 　稱名念力願救護
-　其人釋然無患苦¶
+　其人釋然得解脫¶
 　呪呾讒訟擬中傷
 　恒以惡心求方便¶
 　由彼常念觀音故
 　其人竟不能為害¶
 　鬪戰旗鼓兩相當
-　鋒鏑交橫競殘刃¶
+　鋒鏑交橫競殘忍¶
 　此時心念及稱名
 　菩薩於中施無畏¶
 　大力惡鬼執捉人
@@ -145,7 +144,7 @@ No.1052¶
 　餓鬼或遭寒凍逼
 　身體皮肉皆破壞¶
 　舉彼兩手生極苦
-　神通方便令熅適¶
+　神通方便令溫適¶
 　若金翅鳥以嘴爪
 　搏撮水陸諸龍等¶
 　其龍專心念菩薩

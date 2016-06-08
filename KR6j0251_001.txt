@@ -1,22 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:49.225285
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:40
 #+TITLE: 讚觀世音菩薩頌
 #+PROPERTY: CBETA_ID T20n1052
 #+PROPERTY: ID KR6j0251
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1052
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0251_T_000-0067a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0251_T_001-0067a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1052¶
-
- 讚觀世音菩薩頌¶
+No. 1052¶
+讚觀世音菩薩頌¶
 ¶
-唐天后代佛授記寺翻經沙門¶
+唐〔天后代〕－【明】天后代天后代佛授記寺翻經沙門¶
 慧智奉　制譯¶
 
 #+BEGIN_VERSE
@@ -171,9 +170,9 @@ No.1052¶
 　遠離有無諸分別¶
 　利益無量如虛空
 　以此讚歎功德藏¶
-　願證如來一切智
+　願證如來一切智」
 #+END_VERSE
-」¶
+¶
 
 以此讚歎觀世音菩薩功德上資。¶
 
